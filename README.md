@@ -4,8 +4,8 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhyan-andrade-b66b271b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rhyanandrade)
 
-![Rhyan](https://github-readme-stats.vercel.app/api?username=devrhyan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrhyan&show_icons=true&theme=radical) <br/>
+![Rhyan](https://github-readme-stats.vercel.app/api?username=devrhyan&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrhyan&show_icons=true&theme=dracula) <br/>
 Minha paixão por tecnologia me levou a uma jornada de aprendizado em programação. Estou focado em desenvolver habilidades que me permitam criar soluções inovadoras e impactantes no campo de desenvolvimento.
 
 ## Tecnologias que eu já obtive algum conhecimento
