@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Rhyan Andrade
 
-- 🔭 Hoje eu trabalho com Data Science
-- 💻 Focado em aprimorar conhecimentos em Javascript
+- 🔭 Hoje trabalho com Data Science
+- 💻 Focado em aprimorar meus conhecimentos em Javascript
 - 📚 Estudando Java
   
 ##
