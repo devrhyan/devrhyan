@@ -1,7 +1,10 @@
 ## Olá! Eu sou o Rhyan Andrade
 
+- 💻 Hoje eu trabalho com Data Science
+- 📚 Focado em aprimorar conhecimentos em Javascript
+- 📖 Estudando Java
+  
 ##
-
 ![Rhyan](https://github-readme-stats.vercel.app/api?username=devrhyan&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrhyan&show_icons=true&theme=dracula) <br/>
 
