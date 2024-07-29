@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Rhyan Andrade
 
-- 💻 Hoje eu trabalho com Data Science
-- 📚 Focado em aprimorar conhecimentos em Javascript
-- 📖 Estudando Java
+- 🔭 Hoje eu trabalho com Data Science
+- 💻 Focado em aprimorar conhecimentos em Javascript
+- 📚 Estudando Java
   
 ##
 ![Rhyan](https://github-readme-stats.vercel.app/api?username=devrhyan&show_icons=true&theme=dracula)
@@ -29,7 +29,7 @@
  <a href="https://discord.g/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "rhyan02andrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rhyan-andrade-b66b271b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/15551234567" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/11970352090" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
   
 </div>
