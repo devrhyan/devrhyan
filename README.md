@@ -24,7 +24,7 @@
 
 <div>
 
-[![Blog](https://img.shields.io/badge/RhyanProgramador.com-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://rhyanprogramador.com)
+[![Blog](https://img.shields.io/badge/RhyanProgramador.com-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://devrhyan.github.io/Business-Card/)
   <a href="https://instagram.com/rhyanandrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.g/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "rhyan02andrade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
